@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there, I'm Amit 
+- I love making software applications
+- Currently a Master of Computer Science student
+- Studying at North Carolina State University (CGPA: 4.0)
 
 <!--
 **amit-99/amit-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
