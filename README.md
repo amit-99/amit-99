@@ -11,7 +11,8 @@ Here's some stuff I've made over the years:
 - Developed a Django-based web application for three personas recruiter, candidate, and admin.
 
 ## [Meeting Minutes App](https://github.com/amit-99/Meeting-Minutes-App) <img src="https://img.shields.io/badge/-Android_Studio-404D59?logo=android-studio&logoColor=3DDC84&style=flat" /> <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat"/>
-- Developed an Android application that converts speech to text to create a transcript of the audio and take down the minutes of a meeting. Used IBM Watson Speech-to-Text API for real-time and accurate transcription.
+- Android application that converts speech to text to create a transcript of the audio and take down the minutes of a meeting.
+- Used IBM Watson Speech-to-Text API for real-time and accurate transcription.
 - Implemented a bag-of-words model for keyword extraction and text summarization.
 - Implemented additional functionality including speaker diarization, text summarization, and in-app calendar integration.
 
